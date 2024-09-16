@@ -1,6 +1,6 @@
 # Career Latice - Empowering Careers Through Connection
 
-This GitHub organization consists of repositories that serve as a university project codebase as part of the Web Programming course. The objective of the project is to ensure that students can explain the fundamental concepts of web programming, select the appropriate techniques for building web-based applications, and develop applications that meet the specified requirements. For detailed information feel free to visit [https://curriculum.binus.ac.id/course/comp6679004-mlg/].
+This GitHub organization consists of repositories that serve as a university project codebase as part of the Web Programming course. The objective of the project is to ensure that students can explain the fundamental concepts of web programming, select the appropriate techniques for building web-based applications, and develop applications that meet the specified requirements. For detailed information feel free to visit [https://curriculum.binus.ac.id/course/COMP6821001/].
 
 CareerLattice is an innovative platform designed to empower individuals by helping them develop their careers and forge professional connections. Our platform is committed to addressing key issues related to the United Nations’ 17 Sustainable Development Goals (SDGs), particularly focusing on goals such as No Poverty, Zero Hunger, Decent Work and Economic Growth, and Partnership for the Goals.
 
